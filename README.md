@@ -4,4 +4,4 @@
 
 -[Github actions](https://github.com/JMyrtil/server-deployment-practice/actions)
 
--[Deployed Site](https://server-practice-cigh.onrender.com)
+-[Deployed Site](https://server-practice-cigh.onrender.com/lemme-cap)
